@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d75e2895-22dc-4e0e-9e90-cefaa5d97ce0": {
+      "ProjectGuid": "d75e2895-22dc-4e0e-9e90-cefaa5d97ce0",
+      "DisplayName": "EdmxData",
+      "ColorIndex": 0
+    },
+    "0aedf9d7-1e9c-4ce4-aa0f-864548f73376": {
+      "ProjectGuid": "0aedf9d7-1e9c-4ce4-aa0f-864548f73376",
+      "DisplayName": "ClassLibrary1",
+      "ColorIndex": 1
+    },
+    "f26f4385-ce59-4ee4-8de9-f645789f2170": {
+      "ProjectGuid": "f26f4385-ce59-4ee4-8de9-f645789f2170",
+      "DisplayName": "Edmx",
+      "ColorIndex": 2
+    },
+    "b104f396-5381-47cd-a089-fc77c4182d93": {
+      "ProjectGuid": "b104f396-5381-47cd-a089-fc77c4182d93",
+      "DisplayName": "EdmxData1",
+      "ColorIndex": 3
+    },
+    "77635046-a5b2-4b9e-8f0a-b8f63e0cb716": {
+      "ProjectGuid": "77635046-a5b2-4b9e-8f0a-b8f63e0cb716",
+      "DisplayName": "EDMXdata",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
